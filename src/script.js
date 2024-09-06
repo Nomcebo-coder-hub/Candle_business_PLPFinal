@@ -1,5 +1,5 @@
 window.addEventListener("scroll", function () {
-  let elements = document.querySelectorAll(".falling");
+  let elements = document.querySelectorAll("");
   let windowHeight = window.innerHeight;
 
   elements.forEach(function (element) {
