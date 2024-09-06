@@ -159,11 +159,6 @@ body {
   padding: 3rem 1rem;
 }
 
-.contact-section h2,
-p {
-  color: #fff;
-}
-
 .falling {
   transform: translateY(-100px);
   opacity: 0;
