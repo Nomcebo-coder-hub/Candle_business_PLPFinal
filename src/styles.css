@@ -149,6 +149,10 @@ body {
   transition: background-color 0.3s ease;
 }
 
+.contact-btn:hover {
+  background-color: #efc788;
+}
+
 .contact-section {
   background-color: #efc788;
   text-align: center;
